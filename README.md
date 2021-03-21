@@ -1,5 +1,5 @@
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Kabir](https://n3o-d4rk3r.github.io)!
+### Hello, I'm [Kabir](https://n3o-d4rk3r.github.io)!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I specialize in Android Application Development and WordPress & OpenCart. Android and Back-end development is my main specialization for over 4 years. I have 5years+ of experience in developing android applications, web applications, and expertise with C++, Java, Php, MySql, SqLITE as Back-end.✨😍
 
