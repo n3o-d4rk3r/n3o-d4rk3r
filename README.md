@@ -7,7 +7,3 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 ~[Upwork Profile](https://www.upwork.com/workwith/ictdkabir2011)<br>
 ~[Fiverr Profile](https://www.fiverr.com/ictdkabir2011)<br>
 
-### Find me
-
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ictd.kabir/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ictd_kabir) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/ictd-kabir/)  
-
