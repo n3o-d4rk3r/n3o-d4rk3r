@@ -3,7 +3,7 @@
 
 I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I specialize in Android, iOS & Web Development. Android and back-end development is my main specialization for over 4 years. I have 5years+ of experience in developing android applications, web applications, and expertise with C++, Java, Php, MySql, SqLITE as Back-end.
 
-###Hire Me Now,
+### Hire Me,<br>
 [Upwork Profile](https://www.upwork.com/workwith/ictdkabir2011)<br>
 [Fiverr](https://www.fiverr.com/ictdkabir2011)<br>
 
