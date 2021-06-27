@@ -21,7 +21,7 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/workwith/ictdkabir2011) & [Fiverr](https://www.fiverr.com/ictdkabir2011)
 
-- 🌱 I’m currently learning **Advanced Android Application Development with Java and Backend, Udemy**
+- 🌱 I’m currently learning **Advanced Android Application Development with Java and PHP Backend, Udemy**
 
 <hr>
 
