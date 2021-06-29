@@ -23,6 +23,22 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 - 🌱 I’m currently learning **Advanced Android Application Development with Java and PHP Backend, Udemy**
 
 <hr>
+<p align='right'>
+<h4>💬 Programming language:</h4>
+ <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/C-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/C++-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Java-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/PHP-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/MySql-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/SQlite-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align='right'>
+<h4>💬 Tools Use:</h4>
+<a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Android Studio-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Visual Code Studio-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Sublime-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 <p align='right'>
 <h4>💬 Sometimes, I like to write things here...</h4>
