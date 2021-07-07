@@ -34,7 +34,9 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
   <a href="https://medium.com/@n3od4rk3r" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://n3o-d4rk3r.github.io/" target="_blank"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+
 <hr>
+
 <br>
 <p align="right">
   <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ" target="_blank"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
