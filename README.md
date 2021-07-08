@@ -1,5 +1,4 @@
 <h1 align='center'> Hi there 👋, I'm Kabir 👩‍💻 </h1>
-
 <p align='center'>
  <b> Full Stack Developer</b>
 </p>
