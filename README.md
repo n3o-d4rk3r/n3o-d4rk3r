@@ -14,7 +14,7 @@
 
 </p>
 
-I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I specialize in android, web development for over 6 years, and expertise with C++, Java, Php, MySql, SqLITE and love always open to learning new technologies.
+I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I specialize in android, web development for over 9 years, and expertise with C++, Java, Php, MySql, SqLITE and love always open to learning new technologies.
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/workwith/ictdkabir2011) & [Fiverr](https://www.fiverr.com/ictdkabir2011)
 - 🌱 I’m currently learning **Advanced Android Application Development with Java and PHP Backend, Udemy**
