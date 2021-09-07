@@ -27,7 +27,6 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
  <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Visual Code Studio-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Sublime-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-
 <p align='right'>
 <h4>💬 Sometimes, I like to write things here...</h4>
   <a href="https://dev.to/n3od4rk3r" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
