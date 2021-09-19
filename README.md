@@ -22,7 +22,14 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 <hr>
 
 <p align='right'>
+<h4>💬 Programming Lang:</h4>
+
+![Android](https://img.shields.io/badge/Android-%23121011.svg?&style=for-the-badge&logo=Android&logoColor=#A4c639)
+![C++](https://img.shields.io/badge/C++-%230095D5.svg?&style=for-the-badge&logo=cprogramming&logoColor=white)
+![Java](https://img.shields.io/badge/java-%230095D5.svg?&style=for-the-badge&logo=java&logoColor=white)
+
 <h4>💬 Tools Use:</h4>
+
 <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Android Studio-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Visual Code Studio-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
  <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Sublime-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
