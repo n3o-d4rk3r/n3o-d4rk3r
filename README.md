@@ -50,6 +50,3 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
 
-
-
-
