@@ -1,3 +1,5 @@
+[![](https://raw.githubusercontent.com/n3o-d4rk3r/n3o-d4rk3r/master/profile.gif)](https://n3o-d4rk3r.github.io/)<!-- If you want the template for my gif, email me! -->
+
 <h1 align='center'> Hi there 👋, I'm Kabir 👩‍💻 </h1>
 <p align='center'>
  <b> Full Stack Developer</b>
@@ -20,13 +22,29 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 
 <hr>
 
-<p align='right'>
 <h4>💬 Programming Lang:</h4>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
 
 <p align='right'>
 <h4>💬 App Development:</h4>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></p>
+
+
+### Projects
+
+[![](https://img.shields.io/badge/-🩸%20ABCKids-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/ABCKids)
+[![](https://img.shields.io/badge/-🌊%20Pukki%20Fly-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/PukkiFly)
+[![](https://img.shields.io/badge/-🗂%20QR%20Scanner%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QRScanner)
+[![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QuoteLOVE%20Pro)
+[![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SpeeedMeterPro)
+
+<a href="https://n3o-d4rk3r.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=n3o-d4rk3r&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3o-d4rk3r&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
 
 <p align='right'>
 <h4>💬 Sometimes, I like to write things here...</h4>
