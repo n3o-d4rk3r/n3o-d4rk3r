@@ -22,16 +22,12 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 
 <p align='right'>
 <h4>💬 Programming Lang:</h4>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-![Android](https://img.shields.io/badge/Android-%23121011.svg?&style=for-the-badge&logo=Android&logoColor=#A4c639)
-![C++](https://img.shields.io/badge/C++-%230095D5.svg?&style=for-the-badge&logo=cprogramming&logoColor=white)
-![Java](https://img.shields.io/badge/java-%230095D5.svg?&style=for-the-badge&logo=java&logoColor=white)
+<p align='right'>
+<h4>💬 App Development:</h4>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></p>
 
-<h4>💬 Tools Use:</h4>
-
-<a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Android Studio-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a> <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/VS Code-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
- <a href="https://dev.to/n3od4rk3r"><img src="https://img.shields.io/badge/Sublime-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
 <p align='right'>
 <h4>💬 Sometimes, I like to write things here...</h4>
   <a href="https://dev.to/n3od4rk3r" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a> <a href="https://medium.com/@n3od4rk3r" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://n3o-d4rk3r.github.io/" target="_blank"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /> </a></p>
