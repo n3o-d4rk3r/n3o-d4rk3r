@@ -2,9 +2,7 @@
 
 
 <h1 align='center'> Hi there 👋, I'm Kabir 👩‍💻 </h1>
-<p align='center'>
- <b> Full Stack Developer</b>
-</p>
+<p align='center'><b> Full Stack Developer</b></p>
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=n3o-d4rk3r??style=for-the-badge&logo=appveyor"></a>
@@ -57,27 +55,10 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 [![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SpeeedMeterPro)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align='right'>
 <h4>💬 Sometimes, I like to write things here...</h4>
 <a href="https://n3o-d4rk3r.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&amp;style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Portfolio"></a>
-<a href="https://n3o-d4rk3r.github.io/" target="_blank"><img src="https://img.shields.io/badge/-My%20Blog-%23000000?&amp;style=flat-square&amp;logo=steam&amp;logoColor=white" alt="DEV.to"></a>
+<a href="https://aryankabir.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/-My%20Blog-%23000000?&amp;style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Blog"></a>
 <a href="https://dev.to/n3od4rk3r/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&amp;style=flat-square&amp;logo=DEV.to&amp;logoColor=white" alt="DEV.to"></a>
 <a href="https://medium.com/@n3od4rk3r/" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&amp;style=flat-square&amp;logo=Medium&amp;logoColor=white" alt="DEV.to"></a>
 
