@@ -30,6 +30,14 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+<h4>💬 Some of the technologies, I have worked with:</h4>
+<p><img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
+<img src="https://img.shields.io/badge/-Linux-000000?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/-Spring-000000?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Java Spring">
+<a href="https://github.com/microsoft/vscode"><img src="https://img.shields.io/badge/-VSCode-000000?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code"></a> <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/-Tor-000000?style=flat&amp;logo=tor&amp;logoColor=7E4798" alt="Tor"></a></p>
+
+
 <h4>💬 Mobile Projects:</h4>
 
 [![](https://img.shields.io/badge/-🩸%20ABCKids-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/ABCKids)
@@ -37,6 +45,23 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 [![](https://img.shields.io/badge/-🗂%20QR%20Scanner%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QRScanner)
 [![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QuoteLOVE%20Pro)
 [![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SpeeedMeterPro)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align='right'>
