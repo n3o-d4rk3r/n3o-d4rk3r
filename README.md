@@ -1,4 +1,5 @@
-[![](https://raw.githubusercontent.com/n3o-d4rk3r/n3o-d4rk3r/master/profile.gif)](https://n3o-d4rk3r.github.io/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile_light.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+
 
 <h1 align='center'> Hi there 👋, I'm Kabir 👩‍💻 </h1>
 <p align='center'>
@@ -29,12 +30,7 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-
-<p align='right'>
-<h4>💬 App Development:</h4>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></p>
-
-<h4>💬 Total Projects:</h4>
+<h4>💬 Mobile Projects:</h4>
 
 [![](https://img.shields.io/badge/-🩸%20ABCKids-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/ABCKids)
 [![](https://img.shields.io/badge/-🌊%20Pukki%20Fly-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/PukkiFly)
