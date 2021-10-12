@@ -50,7 +50,7 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 [![](https://img.shields.io/badge/-🩸%20ABCKids-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/ABCKids)
 [![](https://img.shields.io/badge/-🌊%20Pukki%20Fly-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/PukkiFly)
 [![](https://img.shields.io/badge/-🗂%20QR%20Scanner%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QRScanner)
-[![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QuoteLOVE%20Pro)
+[![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QuoteLOVE%20Pro)</br>
 [![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SpeeedMeterPro)
 
 
