@@ -31,8 +31,7 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3&amp;link=https://github.com/n3o-d4rk3r/" alt="CSS3"></a>
  <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript&amp;link=https://github.com/n3o-d4rk3r/" alt="Bootstrap"></a>
 <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;link=https://github.com/n3o-d4rk3r/" alt="Bootstrap"></a>
-<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&amp;logo=vue.js&amp;link=https://github.com/n3o-d4rk3r/" alt="Vue.js"></a>
-<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&amp;logo=angular&amp;link=https://github.com/n3o-d4rk3r/" alt="Angular"></a> <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-PHP-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="PHP"></a></p>
+<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-PHP-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="PHP"></a></p>
 
 <h4>💬 Database Skill:</h4>
 <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql&amp;link=https://github.com/n3o-d4rk3r/" alt="MySQL"></a> <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-SQLite-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="SQLite"></a>
