@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/adamlston/admalston/master/profile_light.gif)]()<!-- If you want the template for my gif, email me! -->
 
-<h1 align='center'> Hi there 👋, I'm Kabir👩‍💻</h1>
+<h1 align='center'>Hi there 👋, I'm Kabir👩‍💻</h1>
 <p align='center'><b>Full Stack Developer</b></p>
 
 
