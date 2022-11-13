@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/adamlston/admalston/master/profile_light.gif)]()<!-- If you want the template for my gif, email me! -->
 
 <h1 align='center'>Hi there 👋, I'm Kabir👩‍💻</h1>
-<p align='center'><b>Full Stack Developer</b></p>
+<p align='center'><b>Full Stack Developer</b><br/><br/><a href="https://www.buymeacoffee.com/n3od4rk3r"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=n3od4rk3r&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
 
 
 <p align='center'>
@@ -61,4 +61,6 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 <hr>
 <p align="right">
 <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&amp;style=flat-square&amp;logo=spotify&amp;logoColor=white" alt="Spotify"></a> <a href="steamcommunity.com/id/n3o-d4rk3r" target="_blank"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&amp;style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Stream"></a> <h5 align="right">🎮 To have fun and spend time...</h5>
+
 </p>
+
