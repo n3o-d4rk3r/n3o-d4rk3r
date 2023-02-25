@@ -61,6 +61,5 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 <hr>
 <p align="right">
 <a href="https://open.spotify.com/playlist/2w8GYqYdH6ve3g0nGcJcgE?si=7bCl8yynR2Saz4VPR6mDXQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&amp;style=flat-square&amp;logo=spotify&amp;logoColor=white" alt="Spotify"></a> <a href="steamcommunity.com/id/n3o-d4rk3r" target="_blank"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&amp;style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Stream"></a> <h5 align="right">🎮 To have fun and spend time...</h5>
-
 </p>
 
