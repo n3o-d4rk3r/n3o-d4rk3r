@@ -32,7 +32,7 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-PHP-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="PHP"></a></p>
 
 <h4>💬 Database Skill:</h4>
-<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql&amp;link=https://github.com/n3o-d4rk3r/" alt="MySQL"></a> <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-SQLite-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="SQLite"></a>
+<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql&amp;link=https://github.com/n3o-d4rk3r/" alt="MySQL"></a> <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-SQLite-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="SQLite"></a> <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-MDX Query Language-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="MDX Query Language"></a>
 
 
 <h4>💬 Some of the technologies, I have worked with:</h4>
