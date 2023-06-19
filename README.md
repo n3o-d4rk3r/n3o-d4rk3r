@@ -1,7 +1,6 @@
 [![](https://raw.githubusercontent.com/adamlston/admalston/master/profile_light.gif)]()<!-- If you want the template for my gif, email me! -->
 <h1 align='center'>Hi There 👋, I'm Kabir👩‍💻</h1>
 <p align='center'><b>Full Stack Developer</b><br/><br/><a href="https://www.buymeacoffee.com/n3od4rk3r"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=n3od4rk3r&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
-
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=n3o-d4rk3r??style=for-the-badge&logo=appveyor"></a>
 </p>
