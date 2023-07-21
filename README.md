@@ -1,8 +1,6 @@
-<p align='center'><a href="https://app.daily.dev/n3o-d4rk3r"><img src="https://api.daily.dev/devcards/5836054868da4ee2b4606e7d54c247a8.png?r=gu8" width="200" alt="Md Kabir Hassan's Dev Card"/></a></p>
-
 [![](https://raw.githubusercontent.com/adamlston/admalston/master/profile_light.gif)]()<!-- If you want the template for my gif, email me! -->
-<h1 align='center'>Hi There 👋, I'm Kabir👩‍💻</h1>
-<p align='center'><b>Full Stack Developer</b><br/><br/><a href="https://www.buymeacoffee.com/n3od4rk3r"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=n3od4rk3r&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
+<h1 align='center'>Hi There! 👋, This is Md Kabir Hassan👩‍💻</h1>
+<p align='center'><a href="https://app.daily.dev/n3o-d4rk3r"><img src="https://api.daily.dev/devcards/5836054868da4ee2b4606e7d54c247a8.png?r=gu8" width="200" alt="Md Kabir Hassan's Dev Card"/></a></p>
 <p align='center'>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="n3o-d4rk3r"/>
 </p>
