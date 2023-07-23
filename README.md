@@ -12,8 +12,6 @@ I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I special
 
 - 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~0195159b2d076dcbc4)
 - 📚 Currently learning about [Multidimensional Data Expressions (MDX)]([https://www.upwork.com/freelancers/~0195159b2d076dcbc4](https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query?view=asallproducts-allversions))
-- 👯 Looking to collaborate on Android Lib, Php, Java or Open Source Projects
-
 <hr>
 
 <h4>💬 Programming Lang:</h4>
