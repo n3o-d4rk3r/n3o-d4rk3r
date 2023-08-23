@@ -11,7 +11,7 @@
 I work as a ~~Full Stack Developer~~. I´m based in Dhaka, Bangladesh. I specialize in android, web development for over 7 years, and expertise with C, C++, Java, Kotlin, Php, MySql, SqLITE and love always open to learning new technologies.
 
 - 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~0195159b2d076dcbc4)
-- 📚 Currently learning about [Multidimensional Data Expressions (MDX)]([https://www.upwork.com/freelancers/~0195159b2d076dcbc4](https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query?view=asallproducts-allversions))
+- 📚 Currently learning about [Jetpack Compose and API Integration]([https://www.upwork.com/freelancers/~0195159b2d076dcbc4](https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query?view=asallproducts-allversions))
 <hr>
 
 <h4>💬 Programming Lang:</h4>
