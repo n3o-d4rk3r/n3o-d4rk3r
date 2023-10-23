@@ -11,7 +11,7 @@
 As a Software Engineer specializing in Android development, I am currently working at Totih Inc, Turkey, while being based in Dhaka, Bangladesh. I have accumulated over 7 years of experience in this field and possess expertise in programming languages including C, C++, Java, and Kotlin. Additionally, I am proficient in PHP, MySQL, and SQLite. I have a passion for continuously learning and staying updated with emerging technologies.
 
 - 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~0195159b2d076dcbc4)
-- 📚 Currently learning about [Jetpack Compose and API Integration]([https://www.upwork.com/freelancers/~0195159b2d076dcbc4](https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query?view=asallproducts-allversions))
+- 📚 Currently learning about [Multidimensional Expressions(MDX)]([https://www.upwork.com/freelancers/~0195159b2d076dcbc4](https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query?view=asallproducts-allversions))
 <hr>
 
 <h4>💬 Programming Lang:</h4>
