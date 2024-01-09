@@ -18,9 +18,11 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 
 <h4>💬 Programming Lang:</h4>
 
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=A)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
 
 <h4>💬 Web Prorgamming Skills:</h4>
 
