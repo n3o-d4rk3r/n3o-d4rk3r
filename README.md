@@ -5,7 +5,6 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="n3o-d4rk3r"/>
 </p>
 
-
 <p align='center'>
  <a href="https://www.facebook.com/ictd.kabir" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://twitter.com/ictd_kabir" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Twitter"></a> <a href="https://www.instagram.com/ictd.kabir" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://www.linkedin.com/in/ictd-kabir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="mailto:ictd.kabir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:ictd.kabir@gmail.com" alt="Gmail Badge"></a>
 </p>
@@ -52,7 +51,7 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 [![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QuoteLOVE%20Pro)</br>
 [![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SpeeedMeterPro)
 [![](https://img.shields.io/badge/-🗂%20SUBian%20%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SUBian)
-<p align='right'>
+ 
 <h4>💬 Sometimes, I like to write things here...</h4>
 <a href="https://n3o-d4rk3r.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&amp;style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Portfolio"></a>
 <a href="https://aryankabir.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/-My%20Blog-%23000000?&amp;style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Blog"></a>
