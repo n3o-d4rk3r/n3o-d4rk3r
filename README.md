@@ -21,11 +21,8 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 ![Assembly](https://img.shields.io/badge/-Assembly-FFD700?&logo=Assembly)
 ![C](https://img.shields.io/badge/-C-4682B4?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-FF7F50?&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?&logo=Java-lang&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-9B59B6?&logo=Kotlin&logoColor=white)
-
-
-
 
 <h4>💬 Web Prorgamming Skills:</h4>
 
@@ -38,8 +35,6 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 ![](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
-
-
 <h4>💬 Database Skill:</h4>
 
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -47,14 +42,16 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 ![](https://img.shields.io/badge/-MDX-000000?logo=mdx)
 
 
-
-
 <h4>💬 Some of the technologies, I have worked with:</h4>
-<p><img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
-<img src="https://img.shields.io/badge/-Linux-000000?style=flat&amp;logo=linux&amp;logoColor=FCC624" alt="Linux">
-<img src="https://img.shields.io/badge/-Spring-000000?style=flat&amp;logo=spring&amp;logoColor=6DB33F" alt="Java Spring">
-<a href="https://github.com/microsoft/vscode"><img src="https://img.shields.io/badge/-VSCode-000000?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code"></a> <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/-Tor-000000?style=flat&amp;logo=tor&amp;logoColor=7E4798" alt="Tor"></a></p>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000)
+![Java Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=000000)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)](https://github.com/microsoft/vscode)
+![Tor](https://img.shields.io/badge/-Tor-7E4798?style=flat&logo=tor-browser&logoColor=FFFFFF)
+
+
 
 
 <h4>💬 Mobile Projects:</h4>
