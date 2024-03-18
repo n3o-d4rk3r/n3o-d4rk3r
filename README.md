@@ -18,10 +18,13 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 
 <h4>💬 Programming Lang:</h4>
 
-![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=A)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Assembly](https://img.shields.io/badge/-Assembly-FFD700?&logo=Assembly)
+![C](https://img.shields.io/badge/-C-4682B4?&logo=C)
+![C++](https://img.shields.io/badge/-C++-FF7F50?&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-9B59B6?&logo=Kotlin&logoColor=white)
+
+
 
 
 <h4>💬 Web Prorgamming Skills:</h4>
