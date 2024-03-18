@@ -26,14 +26,24 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 
 <h4>💬 Web Prorgamming Skills:</h4>
 
- <p><a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white&amp;link=https://github.com/n3o-d4rk3r/" alt="HTML5"></a>
-<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3&amp;link=https://github.com/n3o-d4rk3r/" alt="CSS3"></a>
- <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript&amp;link=https://github.com/n3o-d4rk3r/" alt="Bootstrap"></a>
-<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap&amp;link=https://github.com/n3o-d4rk3r/" alt="Bootstrap"></a>
-<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-PHP-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="PHP"></a></p><a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-Vue-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="Vue"></a></p>
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
+
 
 <h4>💬 Database Skill:</h4>
-<a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql&amp;link=https://github.com/n3o-d4rk3r/" alt="MySQL"></a> <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-SQLite-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="SQLite"></a> <a href="https://github.com/n3o-d4rk3r/"><img src="https://img.shields.io/badge/-MDX Query Language-336791?style=flat-square&amp;logo=postgresql&amp;link=https://github.com/n3o-d4rk3r/" alt="MDX Query Language"></a>
+
+![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/-MDX-000000?logo=mdx)
+
+
 
 
 <h4>💬 Some of the technologies, I have worked with:</h4>
@@ -48,10 +58,7 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 
 [![](https://img.shields.io/badge/-🩸%20ABCKids-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/ABCKids)
 [![](https://img.shields.io/badge/-🌊%20Pukki%20Fly-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/PukkiFly)
-[![](https://img.shields.io/badge/-🗂%20QR%20Scanner%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QRScanner)
-[![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QuoteLOVE%20Pro)</br>
-[![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SpeeedMeterPro)
-[![](https://img.shields.io/badge/-🗂%20SUBian%20%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SUBian)
+[![](https://img.shields.io/badge/-🗂%20QR%20Scanner%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QRScanner) [![](https://img.shields.io/badge/-💉%20QuoteLOVE%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/QuoteLOVE%20Pro) [![](https://img.shields.io/badge/-🛡%20SpeedMeter%20Pro-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SpeeedMeterPro) [![](https://img.shields.io/badge/-🗂%20SUBian%20%20-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/SUBian)
  
 <h4>💬 Sometimes, I like to write things here...</h4>
 <a href="https://n3o-d4rk3r.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&amp;style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Portfolio"></a>
