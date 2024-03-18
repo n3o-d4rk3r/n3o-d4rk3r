@@ -48,6 +48,7 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000)
 ![Java Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=000000)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=ffffff)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)](https://github.com/microsoft/vscode)
 ![Tor](https://img.shields.io/badge/-Tor-7E4798?style=flat&logo=tor-browser&logoColor=FFFFFF)
 
