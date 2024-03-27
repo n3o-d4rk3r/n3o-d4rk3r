@@ -40,7 +40,6 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 ![](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/-MDX-000000?logo=mdx)
 
-
 <h4>💬 Some of the technologies, I have worked with:</h4>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)
