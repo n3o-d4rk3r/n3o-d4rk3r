@@ -51,8 +51,6 @@ As a Software Engineer specializing in Mobile App & Full-Stack Development, I am
 ![Tor](https://img.shields.io/badge/-Tor-7E4798?style=flat&logo=tor-browser&logoColor=FFFFFF)
 
 
-
-
 <h4>💬 Mobile Projects:</h4>
 
 [![](https://img.shields.io/badge/-🩸%20ABCKids-000)](https://github.com/n3o-d4rk3r/Application-Development-Projects/tree/master/Android%20Studio%20Projects/ABCKids)
