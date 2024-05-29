@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/adamlston/admalston/master/profile_light.gif)]()<!-- If you want the template for my gif, email me! -->
 <h1 align='center'>Hi There! 👋, This is Muhammad Kabir Hassan👩‍💻</h1>
-<p align='center'><a href="https://app.daily.dev/n3od4rk3r"><img src="https://api.daily.dev/devcards/v2/gqcjrIKactUv2zcIgCdeJ.png?r=qf2" width="356" alt="Md Kabir Hassan's Dev Card"/></a></p>
+<p align='center'><a href="https://app.daily.dev/n3od4rk3r"><img src="https://api.daily.dev/devcards/v2/gqcjrIKactUv2zcIgCdeJ.png?type=wide&r=c3f" width="652" alt="Muhammad Kabir Hassan's Dev Card"/></a></p>
 <p align='center'>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="n3o-d4rk3r"/>
 </p>
