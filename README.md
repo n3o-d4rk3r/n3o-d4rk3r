@@ -12,7 +12,6 @@
 As a Software Engineer, I am currently working at Phoenix Digital, UK. I have accumulated over 11+ years of experience in this field and possess expertise in programming languages including C++, Java. Additionally, I am proficient in PHP, MySQL, and MongoDB. I have a passion for continuously learning and staying updated with emerging technologies. I am a die-hard Linux fan and open-source enthusiast, always exploring and building within the Linux ecosystem. Available for remote opportunities.
 
 - 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~0195159b2d076dcbc4)
-- 🔭 Full Stack Developer on [Upwork](https://www.upwork.com/services/product/development-it-php-full-stack-web-developer-end-to-end-web-solutions-1853238764057395606?ref=project_share)
 - 📚 Currently learning about [Concurrency and Multithreading]([https://www.upwork.com/freelancers/~0195159b2d076dcbc4](https://learn.microsoft.com/en-us/analysis-services/multidimensional-models/mdx/mdx-query-the-basic-query?view=asallproducts-allversions))
 <hr>
 
